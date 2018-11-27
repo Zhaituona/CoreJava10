@@ -12,5 +12,6 @@ public class Pyramid {
             }
             System.out.println("");
         }
+        // I added a new line
     }
 }
