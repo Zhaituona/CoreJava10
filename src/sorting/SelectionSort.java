@@ -23,3 +23,4 @@ public class SelectionSort {
         }
     }//end of main
 }// end of class
+ // 5+5= 10;
